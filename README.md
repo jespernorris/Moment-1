@@ -1,4 +1,4 @@
-### Moment 1 - Versionshantering & git // Assignment 1 - Version Control System & git
+### Moment 1 - Versionshantering & git // Assignment 1 - Version Control & git
 This assignment was my first one using a VCS, part of it is this README.md right here aswell as some HTML and CSS which has been published to a GitHub page.  
 Link below:  
 [GitHub page](https://jespernorris.github.io/Moment-1/)
